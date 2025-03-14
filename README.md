@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="center">
+  <samp>
+    Hi! I'm Adam and from China.
+  </samp>
+</p>
 
-<!--
-**aisuandebowen/aisuandebowen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <samp>
+    My hobbies are listening to pop music, doing some sports like hiking and watching movies like Titanic.
+  </samp>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HuiDBK's github activity graph](https://raw.githubusercontent.com/liu-ziting/liu-ziting/output/github-contribution-grid-snake.svg)
