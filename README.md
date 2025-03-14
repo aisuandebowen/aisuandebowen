@@ -6,7 +6,13 @@
 
 <p align="center">
   <samp>
-    My hobbies are listening to pop music, doing some sports like hiking and watching movies like Titanic.
+    <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="28px">
+  </samp>
+</p>
+
+<p align="center">
+  <samp>
+    I'm currently learning Python <br> preparing for the Postgraduate entrance examination.<br><br>
   </samp>
 </p>
 
