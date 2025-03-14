@@ -12,9 +12,17 @@
 
 <p align="center">
   <samp>
-    I'm currently learning Python <br> and preparing for the Postgraduate entrance examination.<br><br>
+     <a href="https://aisuandebowen.github.io/Hut/">My Blog</a><br><br>
   </samp>
 </p>
+
+<p align="center">
+  <samp>
+    向花布示爱，向苹果致敬。<br>
+  </samp>
+</p>
+
+
 
 <details>
   <summary><b>:sparkles: 2025 goal</b></summary>
