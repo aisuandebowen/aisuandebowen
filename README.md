@@ -12,7 +12,7 @@
 
 <p align="center">
   <samp>
-    I'm currently learning Python <br> preparing for the Postgraduate entrance examination.<br><br>
+    I'm currently learning Python <br> and preparing for the Postgraduate entrance examination.<br><br>
   </samp>
 </p>
 
