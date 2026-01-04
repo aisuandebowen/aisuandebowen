@@ -22,10 +22,17 @@
   </samp>
 </p>
 
-
+<details>
+  <summary><b>:sparkles: 2026 goal</b></summary>
+  1. Pass CET-6.<br>
+  2. Travel to Thailand.<br>
+  3. Publish my first paper!<br>
+  4. Pratice my spoken english(My English is still bad).
+  5. Visit the famous scenic spots in Beijing.
+</details>
 
 <details>
-  <summary><b>:sparkles: 2025 goal</b></summary>
+  <summary><b>:skull: 2025 goal</b></summary>
   1. To build a new life I love.<br>
   2. Passing the Postgraduate entrance examination.<br>
   3. Traveling to Italy, Thailand and Japan. I think the first country i travel will be Japan!<br>
